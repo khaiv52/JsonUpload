@@ -1,2 +1,0 @@
-npm i json-server cors json-serve
-npm init -y
