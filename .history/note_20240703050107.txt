@@ -1,0 +1,2 @@
+npm i server serve
+npm init -y
