@@ -1,0 +1,44 @@
+{
+  "shop": [
+    {
+      "brand": "Samsung",
+      "price": 189200,
+      "description": "Samsung Galaxy S10",
+      "quantity": 500,
+      "color": "black",
+      "size": "small",
+      "capacity": "8GB",
+      "ram": "4GB"
+    },
+    {
+      "brand": "Oppo",
+      "price": 195000,
+      "description": "Oppo Reno 8",
+      "quantity": 1000,
+      "color": "black",
+      "size": "small",
+      "capacity": "5GB",
+      "ram": "16GB"
+    },
+    {
+      "brand": "Iphone",
+      "price": 250000,
+      "description": "Iphone 15 Pro",
+      "quantity": 400,
+      "color": "black",
+      "size": "small",
+      "capacity": "256GB",
+      "ram": "16GB"
+    },
+    {
+      "brand": "Sony",
+      "price": 189000,
+      "description": "Sony Xpeira 1V",
+      "quantity": 600,
+      "color": "white",
+      "size": "small",
+      "capacity": "256GB",
+      "ram": "12GB"
+    }
+  ]
+}
