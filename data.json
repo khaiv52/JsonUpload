@@ -7,7 +7,7 @@
       "quantity": 500,
       "image": "image1.jpg",
       "color": ["white", "black", "yellow", "purple", "brown"],
-      "size": ['S', 'M'],
+      "size": ["S", "M"],
       "capacity": ["128GB", "256GB", "1TB"],
       "ram": ["4GB", "8GB", "12GB"]
     },
@@ -18,7 +18,7 @@
       "quantity": 1000,
       "image": "image2.jpg",
       "color": ["black", "yellow"],
-      "size": ['M', 'L'],
+      "size": ["M", "L"],
       "capacity": ["128GB", "256GB"],
       "ram": ["12GB", "16GB"]
     },
@@ -29,7 +29,7 @@
       "quantity": 400,
       "image": "image3.jpg",
       "color": ["white", "brown", "green"],
-      "size": ['S', 'M', 'L'],
+      "size": ["S", "M", "L"],
       "capacity": ["256GB", "1TB"],
       "ram": ["4GB", "12GB"]
     },
@@ -40,7 +40,7 @@
       "quantity": 600,
       "image": "image4.jpg",
       "color": ["white", "orange", "brown"],
-      "size": ['S', 'L'],
+      "size": ["S", "L"],
       "capacity": ["128GB", "1TB"],
       "ram": ["8GB", "12GB"]
     }
